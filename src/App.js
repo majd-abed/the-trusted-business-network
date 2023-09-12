@@ -17,7 +17,7 @@ function App() {
   return (
     <main >
       <div >
-        <Routes>
+        <Routes> 
           {/* <Route path='/' element={<Home />} /> */}
           {/* <Route path='/my-posts' element={<MyPosts />} /> */}
           {/* <Route path='/signin' element={<Login />} /> */}
